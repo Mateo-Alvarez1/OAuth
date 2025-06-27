@@ -1,6 +1,6 @@
 # Google OAuth2
 
-**Si llegaste desde TikTok, primero que nada , gracias por bancar mi contenido . Segundo si sos bueno me ayuda mucho que me sigas y tercero pero no menos importante,Si comentas **"GITHUBAUTH"** en el video vas a estar ayudando para que saque un video implementando Autenticacion con Github . Ahora si vamos a lo importante**
+**Si llegaste desde TikTok, primero que nada , gracias por bancar mi contenido . Segundo si sos bueno me ayuda mucho que me sigas y tercero pero no menos importante,Si comentas `"GITHUBAUTH"` en el video vas a estar ayudando para que saque un video implementando Autenticacion con Github . Ahora si vamos a lo importante**
 
 ---
 
